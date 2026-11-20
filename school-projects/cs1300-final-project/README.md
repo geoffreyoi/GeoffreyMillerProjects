@@ -16,7 +16,7 @@ Static multi-page website redesign for a campus–city bus travel scenario. Focu
 
 No build step required.
 
-1. Clone [GeoffreyMillerProjects](https://github.com/Geoffreythemiller/GeoffreyMillerProjects) (or open this folder from your copy).
+1. Clone [GeoffreyMillerProjects](https://github.com/geoffreyoi/GeoffreyMillerProjects) (or open this folder from your copy).
 2. Open **`index.html`** in a browser (double-click on Windows, or *File → Open*).
 3. Navigate via the site menu to `bus-stops.html`, `bus-schedules.html`, and `tickets.html`.
 

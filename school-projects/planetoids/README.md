@@ -12,7 +12,7 @@ Asteroids-style arcade game built in Python with the course **game2d** library (
 
 CI runs a **non-interactive smoke test** on pushes and PRs that touch this folder (imports core modules; no gameplay input required).
 
-[![Planetoids smoke](https://github.com/Geoffreythemiller/GeoffreyMillerProjects/actions/workflows/planetoids-smoke.yml/badge.svg)](https://github.com/Geoffreythemiller/GeoffreyMillerProjects/actions/workflows/planetoids-smoke.yml)
+[![Planetoids smoke](https://github.com/geoffreyoi/GeoffreyMillerProjects/actions/workflows/planetoids-smoke.yml/badge.svg)](https://github.com/geoffreyoi/GeoffreyMillerProjects/actions/workflows/planetoids-smoke.yml)
 
 After you merge the workflow, open **Actions → Planetoids smoke** for the latest run. For a playable demo, run locally (below) or add an optional `demo.gif` under [Add demo assets](#add-demo-assets).
 

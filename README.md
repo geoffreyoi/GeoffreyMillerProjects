@@ -4,6 +4,8 @@ Data Analyst specializing in lending, risk modeling, and financial data systems.
 
 I build end-to-end systems that transform raw transactional data into decision-ready insights, including loan approval models, risk scoring frameworks, and automated reporting pipelines.
 
+**Data note:** All lending/risk examples in this repo use **synthetic or de-identified academic data** only—not production portfolios or employer systems.
+
 ---
 
 ## Projects at a glance
